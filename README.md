@@ -37,6 +37,7 @@ En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigo
 
 Requisitos previos
 
+
 Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 
 1. Instalación de NodeJS. Se recomienda tener instalado NodeJS en alguna versión LTS. Al momento de creación de este documento, se usó la versión 16.17.0LTS. Esta instalación debe incluir las Build-Tools para hacer uso de NPM
@@ -45,7 +46,8 @@ Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 
 3. Instalar los nodos node-red-dashboard. Para ello, dirigete a la opcion "Manage Palet" de NodeRed y en la pestaña Install busca node-red-dashboard. Finalmente haz clic en instalar.
 
-4. Instalación de Broker local Mosquitto MQTT. 
+4. Instalación de Broker local Mosquitto MQTT. }
+
 
 Instrucciones de preparación del entorno
 
@@ -63,6 +65,7 @@ Instrucciones de operación
   + Para observar el resutlado de este flow, abre un navegador y dirígete a localhost:1880/ui}
   
   + Enviar por MQTT un mensaje que contenga un JSON con las variables ID, temp y hum
+
 
 Notas
 
@@ -90,9 +93,9 @@ A continuación puede ver el tablero resultante.
 # Créditos
 Desarrollado por Esmeralda Itzel Martinez Peza
 
-itzel08.martinez10peza2001@gmail.com
+  + itzel08.martinez10peza2001@gmail.com
 
-https://www.facebook.com/esmeraldaitzel.martinezpeza
+  + https://www.facebook.com/esmeraldaitzel.martinezpeza
 
 
-https://github.com/MartinezItzel
+  + https://github.com/MartinezItzel
