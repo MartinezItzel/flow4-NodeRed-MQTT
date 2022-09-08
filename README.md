@@ -79,11 +79,12 @@ Notas
 
 A continuación puedes ver los nodos del flow.
 
-![Captura de pantalla de 2022-08-30 13-41-54](https://user-images.githubusercontent.com/111372195/187517486-b4fc3b2b-5164-435d-b5ea-c64e1b6bf195.png)
+![Captura de pantalla de 2022-09-08 10-21-49](https://user-images.githubusercontent.com/111372195/189161627-c5fc3378-ff37-44e7-b2dc-37df2ab85e49.png)
+
 
 A continuación puede ver el tablero resultante.
 
-![Dashboard-Flow3](https://user-images.githubusercontent.com/111372195/187518579-d6b3e673-8705-4f98-a121-559dea1e1d2e.jpeg)
+![Captura de pantalla de 2022-09-08 10-21-43](https://user-images.githubusercontent.com/111372195/189161720-ddd7a216-5fd0-4e24-be0d-f114d4792503.png)
 
 # Evidencias
 
