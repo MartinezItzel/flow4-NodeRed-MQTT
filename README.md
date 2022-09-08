@@ -19,7 +19,7 @@ Para realizar este flow necesitas lo siguiente
     
     - Nodos Dashboard
     
-  +Mosquitto
+  + Mosquitto
 
 # Material de Referencia
 
@@ -46,7 +46,7 @@ Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 
 3. Instalar los nodos node-red-dashboard. Para ello, dirigete a la opcion "Manage Palet" de NodeRed y en la pestaña Install busca node-red-dashboard. Finalmente haz clic en instalar.
 
-4. Instalación de Broker local Mosquitto MQTT. }
+4. Instalación de Broker local Mosquitto MQTT. 
 
 
 Instrucciones de preparación del entorno
@@ -62,7 +62,7 @@ Para ejecutar este flow, es necesario lo siguiente
 
 Instrucciones de operación
 
-  + Para observar el resutlado de este flow, abre un navegador y dirígete a localhost:1880/ui}
+  + Para observar el resutlado de este flow, abre un navegador y dirígete a localhost:1880/ui
   
   + Enviar por MQTT un mensaje que contenga un JSON con las variables ID, temp y hum
 
